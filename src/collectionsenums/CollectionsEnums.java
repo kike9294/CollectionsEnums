@@ -20,6 +20,7 @@ public class CollectionsEnums {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //https://github.com/kike9294/CollectionsEnums.git
         try{   
             File myFile = new File("C:\\Users\\enriq\\Desktop\\MiniHomwork\\MOCK_DATA.csv"); //Access the file
             Scanner myReader = new Scanner(myFile); // create my reader
